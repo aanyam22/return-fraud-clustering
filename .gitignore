@@ -1,0 +1,25 @@
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables — never commit API keys or DB passwords
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Manuals
+return_fraud_implementation_guide.docx
+return_fraud_ml_architecture.svg
