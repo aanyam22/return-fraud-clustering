@@ -20,6 +20,9 @@ Thumbs.db
 *.tmp
 *.log
 
+# Data
+data/raw
+
 # Manuals
 return_fraud_implementation_guide.docx
 return_fraud_ml_architecture.svg
