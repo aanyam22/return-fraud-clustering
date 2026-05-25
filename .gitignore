@@ -21,7 +21,9 @@ Thumbs.db
 *.log
 
 # Data
-data/raw
+notebook/data/raw
+notebook/data/features
+notebook/data/model_ready
 
 # Manuals
 return_fraud_implementation_guide.docx
