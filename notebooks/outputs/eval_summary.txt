@@ -1,0 +1,16 @@
+
+=======================================================
+EVALUATION SUMMARY
+=======================================================
+Test set:          19,296 orders
+Return rate:       9.64%
+
+               Baseline    Cluster-aug   Improvement
+AUC-PR:        0.2333      0.2632       +12.8%
+AUC-ROC:       0.7111      0.7314       +2.8%
+Best F1 (B):   —             0.2899       (thresh=0.62)
+
+Cluster features in top-10 SHAP: ['dist_to_cluster_1', 'cluster_5.0', 'dist_to_cluster_4', 'cluster_4.0', 'dist_to_cluster_3']
+
+Outputs saved to outputs/
+=======================================================
