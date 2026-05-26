@@ -13,7 +13,7 @@ Mid-size e-commerce retailers lose significant margin to return fraud and policy
 
 ## Live Demo
 
-> 🔗 [aanyame14-return-fraud.streamlit.app](#) — add your URL here  
+> 🔗 [aanyame14-return-fraud.streamlit.app](#)
 
 ---
 
